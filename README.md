@@ -1,5 +1,5 @@
 # ЦАРЁВ motor sport
 
-Демонстрационный сайт автосервиса. GitHub Pages публикует готовые HTML, CSS и JavaScript из корня репозитория.
+Редизайн демонстрационного сайта автосервиса. Готовые HTML, CSS и JavaScript публикуются из корня ветки main. Запись подтверждается звонком в выбранный филиал.
 
-[Открыть сайт](https://piertotum1ocomotor.github.io/tsarev-motor-sport/)
+[Открыть сайт](https://piertotum1ocomotor.github.io/tsarev-motor-sport-redesign/)
