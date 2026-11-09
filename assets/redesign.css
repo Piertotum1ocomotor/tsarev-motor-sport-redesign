@@ -263,3 +263,9 @@ main :is(.form-submit, .section-head, .compact-promo, .closing-copy, .detail-act
 .catalog-note { border: 0; border-top: 1px solid var(--line); border-radius: 0; padding: 15px 0; }
 .search-status:empty { margin: 0; }
 .category-hero-photo, .request-promo { border-radius: 0; }
+main .estimate-form .form-submit > .button,
+main .contact-card > .text-link,
+main .category-quick > a {
+  font-size: 16px;
+}
+.category-quick > a { min-height: 44px; white-space: normal; }
